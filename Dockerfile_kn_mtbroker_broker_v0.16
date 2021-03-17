@@ -1,3 +1,0 @@
-FROM gcr.io/knative-releases/mtchannel_broker-6209dc42bbd62ea3ff8c5606f81be88c@sha256:16e43273e50b3c0aae0b9d06962f94bbba328b5cbf37bb2f99731207212036db
-
-
